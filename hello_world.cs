@@ -6,7 +6,7 @@ namespace _20210303
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Wold!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
